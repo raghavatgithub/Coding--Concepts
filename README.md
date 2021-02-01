@@ -8,7 +8,7 @@ Code of various data structures and algorithms logics.
    - Array, Linked List, Stack, Queue, Tree, Heap, Hashing, Graph, Matrix
 
 3. Algorithm's - 
-    3.1 Sorting - Bubble, Selection, Insertion, Quick, Merge.
-    3.2 Searching
-    3.3 Dynamic Programming
-    3.4 Greedy Algorithms
+    - Sorting - Bubble, Selection, Insertion, Quick, Merge, Heap, Tim.
+    - Searching
+    - Dynamic Programming
+    - Greedy Algorithms
