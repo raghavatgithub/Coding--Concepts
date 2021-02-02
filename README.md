@@ -1,5 +1,5 @@
 # DSA---Gymnastics
-Data Structure And Algorithms
+Data Structures, Algorithms, Object Oriented Pogramming Concepts
 
 Code of various data structures and algorithms logics.
 1. Language - C++, Python
